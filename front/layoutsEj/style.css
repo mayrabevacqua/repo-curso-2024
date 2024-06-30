@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-content:stretch;
+    align-content: stretch;
     margin-top: 15px;
 }
 
@@ -16,17 +16,14 @@ body {
     background-color: #7ed957;
     height: 139px;
     width: 14%;
-   /* height: 139px;
-    width:  185px; */
 }
 
 .container1 .caja2 {
     background-color: #737373;
-    color: white;
     height: 139px;
     width: 84%;
-    align-items:end;
-    
+    align-items: end;
+
 }
 
 .container2 {
@@ -46,7 +43,6 @@ body {
     justify-content: space-between;
     align-content: stretch;
     margin-top: 15px;
-
 }
 
 .container3 .caja4 {
@@ -91,4 +87,3 @@ body {
     border: 3px dashed black;
     margin-top: 15px;
 }
-
